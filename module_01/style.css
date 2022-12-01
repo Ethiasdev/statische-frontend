@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(9, 49, 124);
+    text-align: center;
+    background-color: aqua;
+
+
+}
+h3 {
+    color: rgb(15, 207, 194);
+
+
+}
+
+body {
+    background-color: rgb(158, 134, 171);
+
+}
+
+.content {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(28, 128, 144);
+}
+
+a:hover {
+    background-color: rgb(170, 0, 255);
+
+}
+
