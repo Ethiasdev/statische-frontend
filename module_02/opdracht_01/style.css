@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+}
+
+h2{
+    color: red;
+}
+
+.first {
+    font-style: normal;
+    background-color: aquamarine;
+    font-weight: bold;
+    font-size: large;
+    padding-top: 5px;
+    padding-left: 10px;
+    padding-bottom: 5px;
+}
+
+.second h2{
+
+    color: green;
+    
+}
+
+.second{
+    background-color: rgb(231, 231, 130);
+}
+
+body {
+    padding-left: 100px;
+    border: 50px solid rgb(118, 109, 109);
+    }
+
